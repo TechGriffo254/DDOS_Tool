@@ -44,11 +44,7 @@ Author
     Twitter/X: @Adonijah_Kimut
     GitHub: Adonijah01
 
-ScreenShots
-![Image Alt Text](/home/r00tkimut/Pictures/Screenshots/Screen1.png)
-![Image Alt Text](/home/r00tkimut/Pictures/Screenshots/Screen2.png)
-![Image Alt Text](/home/r00tkimut/Pictures/Screenshots/Screen3.png)
-![Image Alt Text](/home/r00tkimut/Pictures/Screenshots/Screen4.png)
+
 
 
 
