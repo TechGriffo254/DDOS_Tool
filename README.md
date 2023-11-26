@@ -11,6 +11,11 @@ This Python script is a simple DDOS (Distributed Denial of Service) tool created
 - Python 3.x installed on your machine.
 - Git (optional, for cloning the repository).
 
+ScreenShots
+![Image Alt Text](/home/r00tkimut/Pictures/Screenshots/Screen1.png)
+![Image Alt Text](/home/r00tkimut/Pictures/Screenshots/Screen2.png)
+![Image Alt Text](/home/r00tkimut/Pictures/Screenshots/Screen3.png)
+![Image Alt Text](/home/r00tkimut/Pictures/Screenshots/Screen4.png)
 ### Clone the Repository
 
 If you have Git installed, you can clone the repository using the following command:
