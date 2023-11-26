@@ -16,8 +16,8 @@ This Python script is a simple DDOS (Distributed Denial of Service) tool created
 If you have Git installed, you can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/Adonijah01/r00tKiMuT-DDOS.git
-cd r00tKiMuT-DDOS
+git clone https://github.com/Adonijah01/DDOS_Tool.git
+cd DDOS_Tool
 
 Alternatively, you can download the ZIP file of the repository from the GitHub page and extract it.
 Usage
